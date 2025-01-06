@@ -12,6 +12,4 @@ if (container && elements && controls && elements.children.length) {
 		controls,
 		3000,
 	); //é necessario transformar em array, pois o elements.children é um HTMLCOLLECTION
-
-	slide.show(3);
 }
